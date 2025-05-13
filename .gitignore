@@ -1,1 +1,16 @@
+# Environment file
 .env
+
+# SQLite databases
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (optional, if you're using per-project settings)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
